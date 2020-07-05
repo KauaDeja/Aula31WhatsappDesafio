@@ -26,6 +26,7 @@ namespace Aula31Whatsapp
             
 
             agenda.Excluir("Carol");
+            agenda.Listar();
             Mensagem newtexto = new Mensagem();
             newtexto.Destinatario = contato1;
            
