@@ -6,7 +6,7 @@ namespace Aula31Whatsapp
         public int Telefone { get; set; }   
 
         /// <summary>
-        /// Método construtor para Atribuir os nomes
+        /// Método construtor para Atribuir os nomes e telefone
         /// </summary>
         /// <param name="_nome">Objeto nome</param>
         /// <param name="_telefone">Objeto telfone</param>

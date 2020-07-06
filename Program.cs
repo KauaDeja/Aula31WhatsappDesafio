@@ -13,9 +13,6 @@ namespace Aula31Whatsapp
             Contato contato5 = new Contato("Rafael", 11977678);
             Contato contato6 = new Contato("Carol", 564787856);
             
-
-            
-
             Agenda agenda = new Agenda();
             agenda.Cadastrar(contato1);
             agenda.Cadastrar(contato2);
@@ -28,7 +25,7 @@ namespace Aula31Whatsapp
             agenda.Excluir("Carol");
             agenda.Listar();
             Mensagem newtexto = new Mensagem();
-            newtexto.Destinatario = contato1;
+            newtexto.Destinatario = contato4;
            
             System.Console.WriteLine(newtexto.Enviar(newtexto.Destinatario));
  

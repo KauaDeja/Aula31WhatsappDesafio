@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dejai_000\\Desktop\\Aula31Whatsapp\\Aula31Whatsapp.csproj",
+      "projectUniqueName": "C:\\Users\\dejai_000\\Desktop\\Aula31Whatsapp11\\Aula31Whatsapp.csproj",
       "projectName": "Aula31Whatsapp",
-      "projectPath": "C:\\Users\\dejai_000\\Desktop\\Aula31Whatsapp\\Aula31Whatsapp.csproj",
+      "projectPath": "C:\\Users\\dejai_000\\Desktop\\Aula31Whatsapp11\\Aula31Whatsapp.csproj",
       "packagesPath": "C:\\Users\\dejai_000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dejai_000\\Desktop\\Aula31Whatsapp\\obj\\",
+      "outputPath": "C:\\Users\\dejai_000\\Desktop\\Aula31Whatsapp11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dejai_000\\AppData\\Roaming\\NuGet\\NuGet.Config"
